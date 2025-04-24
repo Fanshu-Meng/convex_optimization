@@ -1,0 +1,234 @@
+Algorithm: simplex
+Test Function: rosenbrock
+Optimal Solution: 0.9998027584239049, 0.9996826519825917
+Function Value: 0.0
+Error (L2 Norm): 0.0004
+Iterations: 43
+Run Time: 0.25 seconds
+
+
+Algorithm: simplex
+Test Function: booth
+Optimal Solution: 1.0006782821059563, 2.9998727276193753
+Function Value: 0.0
+Error (L2 Norm): 0.0007
+Iterations: 46
+Run Time: 0.21 seconds
+
+
+Algorithm: gradient_descent
+Test Function: rosenbrock
+Optimal Solution: 0.9932993302761107, 0.9861010333227906
+Function Value: 0.0
+Error (L2 Norm): 0.0154
+Iterations: 1001
+Run Time: 0.038 seconds
+
+
+Algorithm: gradient_descent
+Test Function: booth
+Optimal Solution: 1.0000349016896009, 2.999965098310399
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 510
+Run Time: 0.016 seconds
+
+
+Algorithm: subgradient_descent
+Test Function: rosenbrock
+Optimal Solution: 0.9932993302761107, 0.9861010333227906
+Function Value: 0.0
+Error (L2 Norm): 0.0154
+Iterations: 1001
+Run Time: 0.038 seconds
+
+
+Algorithm: subgradient_descent
+Test Function: booth
+Optimal Solution: 1.000000341678605, 2.999999658321395
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 738
+Run Time: 0.027 seconds
+
+
+Algorithm: conjugate_direction
+Test Function: rosenbrock
+Optimal Solution: 0.9999996284925282, 0.9999992519108301
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 45
+Run Time: 0.084 seconds
+
+
+Algorithm: conjugate_direction
+Test Function: booth
+Optimal Solution: 0.9999997652702413, 3.000000210153818
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 29
+Run Time: 0.037 seconds
+
+
+Algorithm: conjugate_gradient
+Test Function: rosenbrock
+Optimal Solution: 1.0000005609760563, 1.0000011339801809
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 91
+Run Time: 0.029 seconds
+
+
+Algorithm: conjugate_gradient
+Test Function: booth
+Optimal Solution: 0.9999997879355589, 3.000000181314002
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 19
+Run Time: 0.029 seconds
+
+
+Algorithm: quasi_newton
+Test Function: rosenbrock
+Optimal Solution: 1.0000000021677673, 1.0000000039786219
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 82
+Run Time: 0.058 seconds
+
+
+Algorithm: quasi_newton
+Test Function: booth
+Optimal Solution: 0.9999999999980258, 2.9999999999980167
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 6
+Run Time: 0.044 seconds
+
+
+Algorithm: momentum
+Test Function: rosenbrock
+Optimal Solution: 1.00000069466521, 1.0000013831884624
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 309
+Run Time: 0.038 seconds
+
+
+Algorithm: momentum
+Test Function: booth
+Optimal Solution: 0.9999996878132618, 2.9999999363667356
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 301
+Run Time: 0.028 seconds
+
+
+Algorithm: newton
+Test Function: rosenbrock
+Optimal Solution: 1.0, 1.0
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 8
+Run Time: 0.038 seconds
+
+
+Algorithm: newton
+Test Function: booth
+Optimal Solution: 1.0000001192092896, 2.9999998807907104
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 24
+Run Time: 0.023 seconds
+
+
+Algorithm: damped_newton
+Test Function: rosenbrock
+Optimal Solution: 1.0, 0.9999999999999999
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 12
+Run Time: 0.035 seconds
+
+
+Algorithm: damped_newton
+Test Function: booth
+Optimal Solution: 1.0000001192092896, 2.9999998807907104
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 24
+Run Time: 0.024 seconds
+
+
+Algorithm: cubic_regularized_newton
+Test Function: rosenbrock
+Optimal Solution: 1.0, 1.0
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 8
+Run Time: 0.043 seconds
+
+
+Algorithm: cubic_regularized_newton
+Test Function: booth
+Optimal Solution: 1.0000004768371582, 2.999999523162842
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 22
+Run Time: 0.036 seconds
+
+
+Algorithm: admm
+Test Function: rosenbrock
+Optimal Solution: 0.9999990844138162, 0.9999980950093141
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 45
+Run Time: 0.264 seconds
+
+
+Algorithm: admm
+Test Function: booth
+Optimal Solution: 1.0000010234903693, 2.9999989765096307
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 28
+Run Time: 0.245 seconds
+
+
+Algorithm: krylov
+Test Function: rosenbrock
+Optimal Solution: 0.9999999999999273, 0.999999999945367
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 7
+Run Time: 0.056 seconds
+
+
+Algorithm: krylov
+Test Function: booth
+Optimal Solution: 1.0000002383991573, 2.9999997615616576
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 23
+Run Time: 0.058 seconds
+
+
+Algorithm: DOA
+Test Function: rosenbrock
+Optimal Solution: 1.000000008944798, 0.9999999970581772
+Function Value: 0.0
+Error (L2 Norm): 0.0
+Iterations: 2000
+Run Time: 1.881 seconds
+
+
+Algorithm: DOA
+Test Function: booth
+Optimal Solution: 0.9896512403472304, 2.9691142971161257
+Function Value: 0.0079
+Error (L2 Norm): 0.0326
+Iterations: 2000
+Run Time: 0.957 seconds
+
+
